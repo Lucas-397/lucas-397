@@ -1,7 +1,7 @@
-<h1>Hello, welcome to my GitHub profile</h1>
+<h1>Hello, welcome to my GitHub profile.</h1>
 
 
-<h2>My name is Lucas Machado and I'm a Junior developer</h2>
+<h2>My name is Lucas Machado and I'm a Junior developer.</h2>
 <p>A quick introduction: Hi, as I said before, my name is Lucas Machado; I'm  Brazilian and a self-taught professional.<br>
 During the 2020 pandemic, I learned to program in Python by myself. Through this journey of learning the language,<br>
 I became obsessed with technology and programming. Because of that passion, since 2023 I've been in Computer Science College,<br>
