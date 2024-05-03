@@ -6,7 +6,7 @@ I became obsessed with technology and programming. Because of that passion, sinc
 started this Journey on IFES(a federal stintution),but due locomotion problems I'm now studing in FAESA.<br>
 Currently working in my first job at LAMPP-IT as a junior developer, I'm learning everything needed to become a full-stack developer.</p>
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/lucas-397">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-397&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-397&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
