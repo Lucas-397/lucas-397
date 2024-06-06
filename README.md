@@ -25,5 +25,5 @@ Currently working in my first job at LAMPP-IT as a junior developer, I'm learnin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" widhth= 30px height = 30px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" widhth= 30px height = 30px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" widhth= 30px height = 30px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" widhth= 30px height = 30px/>        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" widhth= 35px height = 35px/>
 </div>     
