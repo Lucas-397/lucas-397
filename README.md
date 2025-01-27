@@ -2,11 +2,7 @@
 
 
 <h2>My name is Lucas Machado and I'm a Junior developer.</h2>
-<p>A quick introduction: Hi, as I said before, my name is Lucas Machado; I'm  Brazilian and a self-taught professional.<br>
-During the 2020 pandemic, I learned to program in Python by myself. Through this journey of learning the language,<br>
-I became obsessed with technology and programming. Because of that passion, since 2023 I've been in Computer Science College,<br>
-started this Journey on IFES(a federal stintution),but due locomotion problems I'm now studing in FAESA.<br>
-Currently working in my first job at Vint_global as a junior developer, I'm learning everything needed to become a full-stack developer.</p>
+<p>I'm a Front-end developer with expertise in React, typeScript and Next.js feel free to look up on my projects</p>
 
 <div>
 <a href="https://github.com/lucas-397">
