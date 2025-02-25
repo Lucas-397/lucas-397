@@ -1,7 +1,6 @@
 <div>
-  <h1>Hello, welcome to my GitHub profile.</h1>
-  <h2>My name is Lucas Machado and I'm a Junior developer.</h2>
-  <p>I'm a Front-end developer with expertise in React, typeScript and Next.js feel free to look up on my projects</p>
+  <h1>Hello, bem vindo ao meu GitHub </h1>
+  <p> Meu nome é Lucas Machado, e sou um profissional focado no desenvolvimento front-end. Aqui você encontrara os meus melhores projetos.</p>
 </div>
 
 <div>
