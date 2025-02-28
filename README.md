@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=120&section=header"/>
 <div>
-  <h1>Hello, bem vindo ao meu GitHub </h1>
+  <h1>Olá, bem vindo ao meu GitHub </h1>
   <p> Meu nome é Lucas Machado, e sou um desenvolvedor front-end em formação. Aqui você encontrara os meus melhores projetos.</p>
 </div>
 
