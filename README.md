@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" widhth= 30px height = 30px />
   <img src="https://devicon-website.vercel.app/api/typescript/original.svg" widhth= 30px height = 30px></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" widhth= 37px height = 37px/>
-  <img src="https://devicon-website.vercel.app/api/nextjs/original.svg" widhth= 35px height = 35px></img>
   <img src="https://devicon-website.vercel.app/api/react/original.svg" width= 35px heigth= 35px ></img>
+  <img src="https://devicon-website.vercel.app/api/nextjs/original.svg" widhth= 35px height = 35px></img>
 </div>     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=120&section=footer"/>
