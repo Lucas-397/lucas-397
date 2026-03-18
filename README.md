@@ -4,10 +4,10 @@
   <p> Meu nome é Lucas Machado, sou um desenvolvedor front-end com mais de 2 anos de experiências no ambiente React. Aqui você encontrara os meus melhores projetos.</p>
 </div>
 
-<div>
+<div color=9A023F !important>
   <a href="https://github.com/lucas-397">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-397&layout=compact&langs_count=7&theme=monokai"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-397&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-397&theme=monokai&show_icons=true&hide_border=true&count_private=true"/>
 </div>
   
 <div>
