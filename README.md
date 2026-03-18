@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9A023Fd3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9A023F&height=120&section=header"/>
 <div>
   <h1>Olá, bem vindo ao meu GitHub </h1>
   <p> Meu nome é Lucas Machado, e sou um desenvolvedor front-end com mais de 2 anos de experiências no ambiente React. Aqui você encontrara os meus melhores projetos.</p>
@@ -23,4 +23,4 @@
   <img src="https://devicon-website.vercel.app/api/typescript/original.svg" widhth= 30px height = 30px></img>
   <img src="https://devicon-website.vercel.app/api/react/original.svg" width= 35px heigth= 35px ></img>
 </div>     
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9A023F&height=120&section=footer"/>
