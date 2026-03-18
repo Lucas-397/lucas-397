@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9A023F&height=120&section=header"/>
 <div>
   <h1>Olá, bem vindo ao meu GitHub </h1>
-  <p> Meu nome é Lucas Machado, e sou um desenvolvedor front-end com mais de 2 anos de experiências no ambiente React. Aqui você encontrara os meus melhores projetos.</p>
+  <p> Meu nome é Lucas Machado, sou um desenvolvedor front-end com mais de 2 anos de experiências no ambiente React. Aqui você encontrara os meus melhores projetos.</p>
 </div>
 
 <div>
   <a href="https://github.com/lucas-397">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-397&layout=compact&langs_count=7&theme="dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-397&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-397&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
 </div>
   
@@ -16,7 +16,6 @@
 </div>
   
 <div display = flex gap= 5px>
-  <p>Technology and Tools:</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" widhth= 30px height = 30px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" widhth= 30px height = 30px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" widhth= 30px height = 30px />
