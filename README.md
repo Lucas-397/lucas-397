@@ -10,13 +10,6 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-397&theme=monokai&show_icons=true&hide_border=true&count_private=true&text_color=fff&title_color=9B0F06&icon_color=A82323"/>
 </div>
   
-<div>
-  <a href = "mailto:lu.machado.m397@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-machado-21aa07290/" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=red" target="_blank">
-  <a>
-</div>
-  
 <div display = flex gap= 5px>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" widhth= 30px height = 30px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" widhth= 30px height = 30px />
